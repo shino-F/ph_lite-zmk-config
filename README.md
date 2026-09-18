@@ -1,7 +1,7 @@
 # ZMK Firmware for PH Keyboards
 
 This repository contains ZMK firmware configurations for PH Design keyboards.
-
+<img src="keymap-drawer/eyelash40.svg" >
 ## Download Firmware
 
 1. Go to the **Actions** tab

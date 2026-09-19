@@ -1,6 +1,6 @@
-# ZMK Firmware for PH Keyboards
+# ZMK Firmware for Eyelash40 
 
-This repository contains ZMK firmware configurations for PH Design keyboards.
+This repository contains ZMK firmware configurations for my personal Eyelash40, based on work by PH Design.
 <img src="keymap-drawer/eyelash40.svg" >
 ## Download Firmware
 
